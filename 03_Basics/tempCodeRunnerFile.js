@@ -1,1 +1,4 @@
-console.log(name('Rahul'));
+
+//  console.log(a);
+//  console.log(c);
+//  console.log(b);
